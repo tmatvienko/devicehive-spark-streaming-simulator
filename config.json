@@ -1,0 +1,18 @@
+{
+    "serviceUrl": "http://52.3.146.245/api/rest",
+    "accessKey": "1jwKgLYi/CdfBTI9KByfYxwyQ6HUIEfnGSgakdpFjgk=",
+    "deviceId": "snvg-test-device-",
+    "deviceKey": "00000000-0000-0000-0000-000000000000",
+    "name": "snvg-test-device",
+    "network": "default-test",
+    "deviceClass": "go-gateway-class",
+    "deviceClassVersion": "0.1",
+    "equipments": [{
+        "mac": "bc6a29abd973",
+        "uuid": "f000aa1104514000b000000000000000",
+        "interval": 1000,
+        "valueChangeInterval": 10000,
+        "maxPositiveValue": 0.006,
+        "maxNegativeValue": 1
+    }]
+}
